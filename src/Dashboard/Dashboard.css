@@ -1,0 +1,99 @@
+.DashboardText {
+    padding-top: 1%;
+    width: 100%;
+}
+
+.dash-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 42px;
+    text-align: center;
+}
+
+.input-elem {
+    border-radius: 20px;
+    background: #C4C4C480;
+    padding: 20px;
+    width: 57%;
+    height: 8px;
+    border-color: transparent;
+    font-size: x-large;
+
+}
+
+.inputwrapper {
+    width: 70%;
+    margin: auto;
+    padding-top: 1.6%;
+
+}
+
+.input-elem1 {
+    border-radius: 20px;
+    background: #C4C4C480;
+    padding: 20px;
+    height: 8px;
+    border-color: transparent;
+    width: 70%;
+    font-size: medium;
+}
+
+.container {
+    float: left;
+    width: 25%;
+    padding: 0px;
+}
+
+.inputwrapper2 {
+    width: 70%;
+    margin: auto;
+    height: 70%;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.jobdesc{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    width: 70%;
+}
+
+.whitesection{
+    margin-left: 3%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.desc{
+    font-size: 16px;
+    font-weight: 2rem;
+}
+
+.editor{
+    margin-right: 3%;
+    height: 10%;
+}
+.ck-editor__editable_inline {
+    min-height: 200px;
+  }
+
+.smt-btn{
+    float: right;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #C4C4C480;
+    font-size: 17px;
+    font-weight:800;
+    border: 2px solid transparent;
+    width:13%;
+}
+.btn{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: bold;
+    color: green;
+    border: 2px solid green;
+    width:13%;
+}

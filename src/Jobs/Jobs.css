@@ -1,0 +1,25 @@
+.job-heading {
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.whitesection1 {
+    margin: auto;
+    height: 70%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+}
+
+.div1 {
+    padding-left: 5%;
+    margin-right: 10%;
+    width: 100%;
+}
+
+.div2 {
+    margin-right: 4%;
+    display: flex;
+    align-items: center;
+    width: 8%;
+}
